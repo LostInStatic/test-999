@@ -17,8 +17,13 @@
   "packageManager": "npm",
   "useSass": false,
   "useTypescript": false,
-  "imagePath": "cover.jpg",
   "creationDate": 1662384673078,
   "tags": [],
-  "snippets": []
+  "snippets": [],
+  "imagePath": "cover.jpg",
+  "status": "cloned",
+  "lastUpdate": 0,
+  "dirPath": "C:\\Users\\Hyperbook\\Documents\\publAB\\test-999",
+  "keepDescriptionVisible": false,
+  "keepSnippetsVisible": false
 }
