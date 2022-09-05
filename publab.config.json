@@ -1,0 +1,19 @@
+{
+  "id": "4bcb4649-8785-4813-b9ac-43ed5c9ca88a",
+  "collaborators": [
+    {
+      "id": "859904f6-4caf-4195-b132-c13d14782de7",
+      "role": "developer",
+      "githubUsername": "LostInStatic"
+    }
+  ],
+  "description": "test nr 999",
+  "name": "test-999",
+  "packageManager": "npm",
+  "useSass": false,
+  "useTypescript": false,
+  "imagePath": "cover.jpg",
+  "creationDate": 1662384673078,
+  "tags": [],
+  "snippets": []
+}
